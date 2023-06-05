@@ -1,0 +1,11 @@
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\bin\Debug\Dino Endless Running Game.exe.config
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\bin\Debug\Dino Endless Running Game.exe
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\bin\Debug\Dino Endless Running Game.pdb
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.csproj.AssemblyReference.cache
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.csproj.SuggestedBindingRedirects.cache
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino_Endless_Running_Game.Properties.Resources.resources
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.csproj.GenerateResource.cache
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.csproj.CoreCompileInputs.cache
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.exe
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\Dino Endless Running Game.pdb
+C:\programare-vizuala\IXDvisual\Dino Endless Running Game\Dino Endless Running Game\obj\Debug\T_Rex_Endless_Runner_Game.Form1.resources
